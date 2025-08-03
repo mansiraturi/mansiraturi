@@ -6,7 +6,7 @@ I'm a recent graduate with a **Master’s in Data Analytics Engineering from Nor
 
 🔭 Currently focused on bridging Data Science and MLOps  
 🌱 Exploring scalable LLM and RAG deployment pipelines  
-💼 Most recently worked at Verizon (via Brillio Consulting) as a Data Science Co-op  
+💼 Most recently worked at Verizon (via Brillio Consulting) as a Data Scientist  
 🎓 Graduated from Northeastern University, Data Analytics Engineering  
 📫 Reach me at: mansiraturi@gmail.com  
 📍 Based in Boston, MA (open to remote opportunities)
